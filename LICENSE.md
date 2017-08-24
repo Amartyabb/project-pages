@@ -1,4 +1,4 @@
-# Copyright 2015 Ahmet Cecen and MINED Group @ Gatech
+# Created by Amartya Banerjee using Project-Pages
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
