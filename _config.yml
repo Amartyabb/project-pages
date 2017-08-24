@@ -1,7 +1,7 @@
 # Site settings
-title: MadTalks
-description: "Connecting students with insights from business leaders"
-url: "projectpages.github.io"
+title: Project Pages
+description: "An Integrated Scientific Blogging Template"
+url: "https://projectpages.github.io"
 
 
 
@@ -10,7 +10,7 @@ url: "projectpages.github.io"
 baseurl: "/project-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/MadTalks.png
+logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  projectpages
