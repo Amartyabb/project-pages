@@ -1,0 +1,29 @@
+---
+slideinit: "<section markdown=\"1\" data-background=\"http://projectpages.github.io/project-pages/img/slidebackground.png\"><section markdown=\"1\">"
+vertical: "</section><section markdown=\"1\">"
+horizontal: "</section></section><section markdown=\"1\" data-background=\"http://projectpages.github.io/project-pages/img/slidebackground.png\"><section markdown=\"1\">"
+subtitle: ""
+layout: post
+title: ""
+author: ""
+tags: ""
+category: ""
+theme: beige
+trans: cube
+visualworkflow: true
+published: false
+---
+
+## A New Post
+
+MADTalks is a speaker series based at James Madison High School in Vienna,
+Virginia. Its management team — Sky Zoom, Luke Dobrovic, and Khuslen
+Jargalan — created the organization to expose high school students interested
+in business to industry leaders, with the goal of sparking their further
+exploration and interest. MADTalks seeks to bring to these students the
+diverse perspectives and experiences from leaders in the worlds of finance,
+technology, and media.
+The 2017-2018 school year is the first academic year that MADTalks will host
+talks at James Madison High School. The management team seeks to provide
+students with a unique supplement to core classroom instruction through the
+talks, and hopes to continue to do so in the years to come.
